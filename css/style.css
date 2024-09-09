@@ -73,17 +73,17 @@
 
 .btn.btn-orange:hover {
     background: var(--bs-dark);
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .btn.btn-light {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
     border: none;
 }
 
 .btn.btn-light:hover {
     color: var(--bs-white);
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
 }
 
 
@@ -95,11 +95,11 @@
     font-weight: 600;
     vertical-align: middle;
     margin-left: 8px;
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .topbar .dropdown .dropdown-menu a:hover {
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
 }
 
@@ -144,7 +144,7 @@
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-item .nav-link:hover,
 .navbar-light .navbar-nav .nav-item .nav-link.active  {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .navbar-light .navbar-brand img {
@@ -166,7 +166,7 @@
 }
 
 .dropdown .dropdown-menu a:hover {
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
 }
 
@@ -186,8 +186,8 @@
 
     .navbar.navbar-expand-lg .navbar-toggler {
         padding: 10px 20px;
-        border: 1px solid var(--bs-orange);
-        color: var(--bs-orange);
+        border: 1px solid rgb(251, 203, 164);
+        color: rgb(251, 203, 164);
     }
 
     .navbar-light .navbar-collapse {
@@ -245,7 +245,7 @@
         height: 2px;
         bottom: -1px;
         left: 50%;
-        background: var(--bs-orange);
+        background: rgb(251, 203, 164);
         transition: .5s;
     }
 
@@ -262,7 +262,7 @@
         height: 0;
         bottom: -1px;
         left: 50%;
-        background: var(--bs-orange);
+        background: rgb(251, 203, 164);
         transition: .5s;
     }
 
@@ -291,7 +291,7 @@
     width: 60px;
     height: 60px;
     border-radius: 60px;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
     font-size: 26px;
     display: flex;
@@ -313,7 +313,7 @@
 .header-carousel .owl-nav .owl-prev:hover,
 .header-carousel .owl-nav .owl-next:hover {
     box-shadow: inset 0 0 100px 0 var(--bs-light);
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 
@@ -447,7 +447,7 @@
 }
 
 .feature .feature-item:hover {
-    border: 1px solid var(--bs-orange);
+    border: 1px solid rgb(251, 203, 164);
 }
 
 .feature .feature-item .feature-icon {
@@ -468,7 +468,7 @@
 
 .offer-section .nav a.accordion-link.active {
     color: var(--bs-white);
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
 }
 
 .offer-section .nav a.accordion-link h5 {
@@ -493,7 +493,7 @@
 }
 
 .blog .blog-item:hover a:hover {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .blog .blog-item .blog-img {
@@ -537,7 +537,7 @@
 
 .blog .blog-item .blog-img .blog-title a {
     color: var(--bs-white);
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     transition: 0.5s;
 }
 
@@ -553,7 +553,7 @@
     position: absolute;
     top: -58px;
     left: 0;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
     padding: 6px 35px;
     border-radius: 30px;
@@ -562,14 +562,14 @@
 
 .blog .owl-nav .owl-prev:hover {
     background: var(--bs-dark);
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .blog .owl-nav .owl-next {
     position: absolute;
     top: -58px;
     right: 0;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
     padding: 6px 35px;
     border-radius: 30px;
@@ -578,7 +578,7 @@
 
 .blog .owl-nav .owl-next:hover {
     background: var(--bs-dark);
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 /*** Blog End ***/
 
@@ -632,7 +632,7 @@
 
 .team .team-item:hover::after {
     height: 100%;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
 }
 
 .team .team-item .team-img {
@@ -645,7 +645,7 @@
     margin-bottom: -50%;
     display: flex;
     justify-content: center;
-    border: 4px solid var(--bs-orange);
+    border: 4px solid rgb(251, 203, 164);
     border-style: dotted;
     padding: 4px;
     background: var(--bs-white);
@@ -695,7 +695,7 @@
 }
 
 .team .team-item:hover .team-icon a:hover {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
     background: var(--bs-dark);
 }
 /*** Team End ***/
@@ -750,7 +750,7 @@
     top: 20px;
     left: 25px;
     border-radius: 60px;
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
     background: var(--bs-white);
     display: flex;
     align-items: center;
@@ -765,7 +765,7 @@
     right: 25px;
     margin-top: -5px;
     border-radius: 60px;
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
     background: var(--bs-white);
     display: flex;
     align-items: center;
@@ -781,7 +781,7 @@
     position: absolute;
     top: -58px;
     left: 0;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
     padding: 5px 30px;
     border-radius: 30px;
@@ -797,7 +797,7 @@
     position: absolute;
     top: -58px;
     right: 0;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     color: var(--bs-white);
     padding: 5px 30px;
     border-radius: 30px;
@@ -819,7 +819,7 @@
     height: 30px;
     border-radius: 30px;
     margin: 20px 10px 0 10px;
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
     transition: 0.5s;
 }
 
@@ -843,7 +843,7 @@
 }
 
 .testimonial-carousel .owl-dots .owl-dot.active span::after {
-    background: var(--bs-orange);
+    background: rgb(251, 203, 164);
 }
 
 .testimonial-carousel .owl-dots .owl-dot span::after {
@@ -867,7 +867,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: var(--bs-secondary);
+    background: rgb(176, 234, 205)
 }
 
 .footer .footer-item {
@@ -886,7 +886,7 @@
 }
 
 .footer .footer-item a:hover {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 
 .footer .footer-item .footer-btn a,
@@ -899,7 +899,7 @@
 }
 
 .footer .footer-item .footer-btn a:hover i {
-    color: var(--bs-orange);
+    color: rgb(251, 203, 164);
 }
 /*** Footer End ***/
 
